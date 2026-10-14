@@ -21,7 +21,8 @@ TEXT_COLOR = (255, 255, 255)
 class UI():
 
     class Button():
-        pass
+        def __innit__(self,x,y,width,height):
+           
 
     class Slider():
         pass
